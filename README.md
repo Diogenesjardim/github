@@ -4,6 +4,8 @@
 mostrado como subir projeto pro Github
 
 ******* CMD *******
+
+*************************
 cd c:\newman 
 git init
 git add .
